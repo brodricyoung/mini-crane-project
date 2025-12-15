@@ -1,0 +1,6 @@
+../Core/Src/arduino_comm.c:21:13:parseCommand	24	static
+../Core/Src/arduino_comm.c:42:6:ArduinoComm_Init	16	static
+../Core/Src/arduino_comm.c:51:6:ArduinoComm_UART_RxCallback	16	static
+../Core/Src/arduino_comm.c:67:6:ArduinoComm_GetButtonEvent	16	static
+../Core/Src/arduino_comm.c:77:6:CheckCompensationAndNotify	32	static
+../Core/Src/arduino_comm.c:97:6:test_buzzer_uart	32	static

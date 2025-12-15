@@ -1,0 +1,6 @@
+../Core/Src/arduino_comm.c:21:13:parseCommand	5
+../Core/Src/arduino_comm.c:42:6:ArduinoComm_Init	1
+../Core/Src/arduino_comm.c:51:6:ArduinoComm_UART_RxCallback	4
+../Core/Src/arduino_comm.c:67:6:ArduinoComm_GetButtonEvent	2
+../Core/Src/arduino_comm.c:77:6:CheckCompensationAndNotify	3
+../Core/Src/arduino_comm.c:97:6:test_buzzer_uart	1

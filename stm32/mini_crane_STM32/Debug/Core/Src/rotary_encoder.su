@@ -1,0 +1,7 @@
+../Core/Src/rotary_encoder.c:8:6:RE_Init	24	static,ignoring_inline_asm
+../Core/Src/rotary_encoder.c:32:6:RE_Update	24	static
+../Core/Src/rotary_encoder.c:52:6:RE_ButtonPressed	16	static
+../Core/Src/rotary_encoder.c:60:6:RE_Reset	16	static,ignoring_inline_asm
+../Core/Src/rotary_encoder.c:73:9:RE_GetCount	16	static
+../Core/Src/rotary_encoder.c:78:7:RE_GetRevolutions	16	static
+../Core/Src/rotary_encoder.c:83:7:RE_GetDistanceInches	16	static

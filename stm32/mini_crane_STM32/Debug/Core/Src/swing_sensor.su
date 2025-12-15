@@ -1,0 +1,6 @@
+../Core/Src/swing_sensor.c:25:14:IMU_ReadPitch	32	static
+../Core/Src/swing_sensor.c:42:6:SwingSensor_Init	16	static
+../Core/Src/swing_sensor.c:51:6:SwingSensor_CalibrateZero	8	static
+../Core/Src/swing_sensor.c:58:6:SwingSensor_Update	16	static
+../Core/Src/swing_sensor.c:73:7:SwingSensor_GetAngle	4	static
+../Core/Src/swing_sensor.c:78:6:SwingSensor_IsSwinging	16	static

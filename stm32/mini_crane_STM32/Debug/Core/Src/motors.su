@@ -1,0 +1,9 @@
+../Core/Src/motors.c:23:6:DCMotor_Init	8	static
+../Core/Src/motors.c:29:6:WinchMotor_Set	16	static
+../Core/Src/motors.c:51:6:TrolleyMotor_Set	16	static
+../Core/Src/motors.c:75:6:SlewMotor_Init	8	static
+../Core/Src/motors.c:88:13:Stepper_SetPins	16	static
+../Core/Src/motors.c:96:6:SlewMotor_Set	16	static
+../Core/Src/motors.c:109:6:SlewMotor_Coast	4	static
+../Core/Src/motors.c:114:6:Stepper_Tick	8	static
+../Core/Src/motors.c:139:6:Stepper_Timer_Callback	8	static
