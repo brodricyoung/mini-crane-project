@@ -8,7 +8,7 @@ This repository contains the documentation and resources for my Mini Crane proje
 
 The full project report is available here:
 
-[Mini Crane Project Report](./documentation/mini_crane_report.pdf)
+[Mini Crane Project Report](./documentation/Mini_Crane_Project_Report.pdf)
 
 ---
 
@@ -16,7 +16,7 @@ The full project report is available here:
 
 Images of the crane assembly, components, and system setup, and schematics are included in the `images` folder:
 
-[Images](https://github.com/brodricyoung/mini-crane-project/tree/main/Documentation/images)
+[Images](./Documentation/images/)
 
 ---
 
