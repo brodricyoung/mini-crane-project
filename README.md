@@ -6,9 +6,11 @@ This repository contains the documentation and resources for my Mini Crane proje
 
 ## 📄 Project Report
 
-The full project report is available here:
+The full project report PDF is available here:
 
-[Mini Crane Project Report](./documentation/Mini_Crane_Project_Report.pdf)
+*(download for best experience navigating and for links)*
+
+[Mini Crane Project Report](https://github.com/brodricyoung/mini-crane-project/blob/main/Documentation/Mini_Crane_Project_Report.pdf)
 
 ---
 
