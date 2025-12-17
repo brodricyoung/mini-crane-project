@@ -14,12 +14,9 @@ The full project report is available here:
 
 ## 🖼 Images
 
-Images of the crane assembly, components, and system setup are included in the `images` folder:
+Images of the crane assembly, components, and system setup, and schematics are included in the `images` folder:
 
-![Crane Assembly](./images/crane_assembly.jpg)  
-![Controller Setup](./images/controller_setup.jpg)  
-
-*(Add more images as needed)*
+[Images](https://github.com/brodricyoung/mini-crane-project/tree/main/Documentation/images)
 
 ---
 
